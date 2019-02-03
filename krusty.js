@@ -6,7 +6,7 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-  if(message.content === 'KY online') {
+  if(message.content === 'KYonline') {
     message.reply('*Krusty wobbles at you*');
   }
 });
