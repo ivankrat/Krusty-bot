@@ -6,6 +6,6 @@
     "start": "node Krusty.js"
   },
   "dependencies": {
-    "discord.js": "11.1.0"
+    "discord.js": "11.3.0"
   }
 }
